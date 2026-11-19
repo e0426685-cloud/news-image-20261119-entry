@@ -14,4 +14,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py && ls -l out/entry.png
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=cvvgf548&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=52532a96&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
